@@ -14,3 +14,6 @@
 ## Issues Encountered and Solutions
 - **Issue:** Navigating the Cursor interface and finding the Extensions tab.
 - **Solution:** Asked Claude for guidance.
+
+- **Issue:** Connecting Cursor to GitHub and pushing commits through Cursor.
+- **Solution:** Asked Claude for direction and followed the setup steps to connect GitHub and complete the push workflow.
